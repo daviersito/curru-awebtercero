@@ -1,3 +1,5 @@
+video explicacion https://youtu.be/3rr8jtxBPiE
+
 Instalacion y ejecucion backend
 ## Construir y ejecutar
 Desde la carpeta demo (PowerShell):
